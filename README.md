@@ -2,18 +2,18 @@
 
 MovieAdapter bugs:
 
-#1: 
+#1: <br />
 <img src='bug1.jpg' title='Bug 1' width='' alt='Bug 1' />
 	
-#2: 
+#2: <br />
 <img src='bug2.jpg' title='Bug 2' width='' alt='Bug 2' />
 	
-#3: 
+#3: <p>
 <img src='bug3.jpg' title='Bug 3' width='' alt='Bug 3' />
 		
 DetailActivity bugs:
 
-#4: 
+#4: <p>
 <img src='bug4.jpg' title='Bug 4' width='' alt='Bug 4' />
 	
 #5: 
