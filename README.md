@@ -8,6 +8,8 @@ MovieAdapter bugs:
 	
 	#3: <img src='bug3.jpg' title='Bug 3' width='' alt='Bug 3' />
 	
+	<img src='bug1.jpg' title='Flixster Walkthrough' width='' alt='Flix in portrait mode' />
+	
 DetailActivity bugs:
 
 	#4: <img src='bug4.jpg' title='Bug 4' width='' alt='Bug 4' />
