@@ -1,6 +1,7 @@
 # Spring2022-Debug answers and file locations
 
 MovieAdapter bugs:
+
 	#1 <img src='bug1.jpg' title='Bug 1' width='' alt='Bug 1' />
 	
 	#2 <img src='bug2.jpg' title='Bug 2' width='' alt='Bug 2' />
